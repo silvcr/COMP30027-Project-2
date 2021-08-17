@@ -1,6 +1,7 @@
 # MAST30027-Project-1
 
-README File for Project 2 - Ordinal Classification of Cooking Time of Recipes
+README File for Project 2 - Ordinal Classification of Cooking Time of Recipes.
+
 Required libraries:
 - pandas
 - scipy
