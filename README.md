@@ -1,4 +1,4 @@
-# MAST30027-Project-1
+# COMP30027-Project-2
 
 README File for Project 2 - Ordinal Classification of Cooking Time of Recipes.
 
